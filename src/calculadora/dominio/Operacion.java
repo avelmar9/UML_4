@@ -26,14 +26,4 @@ public class Operacion {
 
 	}
 
-//	public String getOperator(String calculo) {
-//		Pattern pattern=Pattern.compile("\\d\\s(\\+)\\s\\d");
-//		Matcher matcher = pattern.matcher(calculo);
-//		 while (matcher.find()) {
-//			 parsearOperador();
-//		 }
-//	}
-	public static void main(String[] args) {
-
-	}
 }
